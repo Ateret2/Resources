@@ -158,6 +158,8 @@ Dictionaries & Word Lists
 
 * `OpenSubtitles <https://opus.nlpl.eu/OpenSubtitles2018.php>`_ {?} - This is a collection of translated movie subtitles from http://www.opensubtitles.org/.
 
+* `OPUS <https://opus.nlpl.eu/index.php>`_ {?} - OPUS is a growing collection of translated texts from the web. In the OPUS project we try to convert and align free online data, to add linguistic annotation, and to provide the community with a publicly available parallel corpus. OPUS is based on open source products and the corpus is also delivered as an open content package. We used several tools to compile the current collection. All pre-processing is done automatically. No manual corrections have been carried out.
+
 
 Treebanks
 ---------
