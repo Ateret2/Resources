@@ -365,7 +365,7 @@ Commercial services
 
 * `Callee <https://www.geektime.co.il/callee-whatsapp-bot/>`_ - a WhatsApp bot that receives a voice note, transcribe it to text also summarize it (as a text).
 
-* `Tasq.Ai <www.tasq.ai>`_ - labeling.
+* `Tasq.Ai <https://www.tasq.ai/>`_ - labeling.
 
 * `verbit.ai <https://verbit.ai/>`_ - Transcription.
 
